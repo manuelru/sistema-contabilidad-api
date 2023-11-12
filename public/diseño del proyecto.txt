@@ -1,0 +1,41 @@
+PRODUCTO:
+1. ID
+2. MARCA
+3. DESCRIPCION
+4. PRECIO
+5.id-proveedor
+6. id-categoria
+7.id-usuarios
+8.id-inventario
+9. id-fabricante
+10. fecha
+
+USUARIOS:
+1.id
+2.password
+3.username
+
+IVENTARIO:
+1. id
+2.id-producto
+3.stock
+
+
+PROVEEDORES:
+1.id
+2.nombre
+3.descripcion
+
+CATEGORIA:
+1.id
+2.nombre
+3.descripcion
+
+FABRICANTE:
+1. ID
+2. NOMBRE
+3. PAIZ-FABRICACION
+4. FECHA-FABRICACION
+
+
+
